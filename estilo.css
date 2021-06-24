@@ -1,0 +1,21 @@
+h1{
+    /* padding-left:  150px; */
+    padding: 25px 150px;
+    background-color: #776EFF;
+    color: azure;
+}
+.container-form{
+    margin-top: 50px;
+    border: solid 1px #777777;
+    border-radius: 17px;
+}
+.titulo{
+    text-align: center;
+    margin: 25px;
+}
+.formulario{
+    margin: 10px 77px;
+}
+.error{
+    color: red;
+}
